@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio-main/static/css/main.0bdce278.css",
+    "main.js": "/portfolio-main/static/js/main.00afebc2.js",
+    "static/media/movie.png": "/portfolio-main/static/media/movie.adecc721643d01eb86ef.png",
+    "static/media/weather.png": "/portfolio-main/static/media/weather.c57d62cb45bc7f6505fa.png",
+    "static/media/simon.png": "/portfolio-main/static/media/simon.cea906758baf4528c724.png",
+    "static/media/podstream.png": "/portfolio-main/static/media/podstream.c057547ecdbc3b25de50.png",
+    "static/media/calculator.png": "/portfolio-main/static/media/calculator.eb59d4b0ca53009f7e31.png",
+    "static/media/capital-quiz.png": "/portfolio-main/static/media/capital-quiz.32ee4c258825db586faa.png",
+    "static/media/bookNotes.png": "/portfolio-main/static/media/bookNotes.5fc3ad773f452a5d1a41.png",
+    "static/media/HeroImage.jpg": "/portfolio-main/static/media/HeroImage.0a7295a2261538b0b303.jpg",
+    "static/media/newsuhb.png": "/portfolio-main/static/media/newsuhb.ebf94fc85444f54d9c71.png",
+    "static/media/drum-kit.png": "/portfolio-main/static/media/drum-kit.05d3dbb16316bc62704d.png",
+    "static/media/family-travel.png": "/portfolio-main/static/media/family-travel.efdb01a4fa4d5c82ba4f.png",
+    "static/media/blog.png": "/portfolio-main/static/media/blog.7e32ee0e1f5738228e2d.png",
+    "static/media/To-do.png": "/portfolio-main/static/media/To-do.c8a8413bd61f6af77a9f.png",
+    "index.html": "/portfolio-main/index.html",
+    "main.0bdce278.css.map": "/portfolio-main/static/css/main.0bdce278.css.map",
+    "main.00afebc2.js.map": "/portfolio-main/static/js/main.00afebc2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bdce278.css",
+    "static/js/main.00afebc2.js"
+  ]
+}
