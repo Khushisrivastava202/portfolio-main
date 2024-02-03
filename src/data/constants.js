@@ -24,7 +24,7 @@ export const Bio = {
     "A passionate Software developer currently persuing Bachelor's degree in Computer Science, I am driven by a curiosity to explore and master the world of technology. My focus lies in becoming a proficient MERN stack developer, with a solid foundation in both front-end and back-end developmen",
   github: "https://github.com/Khushisrivastava202",
   resume:
-    "",
+    "https://drive.google.com/file/d/19SURMMAqxLQyL1mK9KasMwIANMpi6uKn/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/-khushi-srivastava-",
   twitter: "https://github.com/Khushisrivastava202",
   insta: "https://www.instagram.com/_khushi_srivastava_",
