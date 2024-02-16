@@ -10,8 +10,8 @@ import todo from "./images/To-do.png"
 import familytravel from "./images/family-travel.png"
 import capitalQuiz from "./images/capital-quiz.png"
 import drumKit from "./images/drum-kit.png"
-import podstream from "./images/podstream.png"
 import bookNotes from "./images/bookNotes.png"
+import genai from "./images/genai.png"
 
 
 
@@ -185,7 +185,7 @@ export const experiences = [
     img: "https://ugc.production.linktr.ee/a99849c1-13bf-452e-ad85-ee4514c3e26d_logos.jpeg?io=true&size=avatar-v3_0",
     role: "Web Design & development",
     company: "Code Casa Pvt. Ltd. | Online Internship",
-    date: "Jan 2024 - Current",
+    date: "Dec 2024 - Jan-202",
     desc: " 🔯 Simplified login and registration with Google Authentication, 🔯 Ensured site responsiveness across devices using (2) Bootstrap ,Hosting full stack websites using render",
     skills: [
       "NodeJs",
@@ -202,7 +202,7 @@ export const experiences = [
     role: "Web Developer ",
     company: "Bharat Intern | Online Internship",
     companyLink: "https://bharatintern.live/b/i/index.html",
-    date: "Oct 2023 - Dec 2023",
+    date: "Oct 2023 - Nov 2023",
     desc:
       "I learnt HTML, CSS, and JavaScript, utilizing Node.js for server-side functionality. My project demonstrates expertise in crafting responsive interfaces, interactive elements, and clean layouts. This hands-on experience solidified my skills in these technologies, paving the way for dynamic and efficient web solutions.",
     skills: [
@@ -212,11 +212,12 @@ export const experiences = [
   },
   {
     id: 2,
-    img: "https://vmwebsoft.com/image/logo.png",
-    role: "Full stack dev trainee | Certificate ",
-    company: "VM websoft",
-    date: "July 2022 - September 2023",
-    desc: " 🔯 Trained by Full Stack Developer in both frontend and backend technologies. skilled in crafting dynamic and responsive user interfaces using HTML, CSS, and JavaScript and in server-side development using technologies such as Node.js and Express.",
+    img: "https://octanet.in/storage/2023/10/cropped-cropped-site-139x46.png",
+    role: "Web Development | Online Internship ",
+    company: "Octanet Pvt. Ltd.",
+    companyLink: " https://octanet.in/",
+    date: "August 2023 - September 2023",
+    desc: " 🔯 Skilled in crafting dynamic and responsive user interfaces using HTML, CSS, and JavaScript and in server-side development using technologies such as Node.js and Express.",
     skills: [
       "ExpressJs",
       "NodeJs",
@@ -263,7 +264,7 @@ export const projects = [
   {
     id: 0,
     title: "Tech-Traverse",
-    date: "Jan 2024 - Feb 2024",
+    date: "Jan 2024 ",
     description:
       "Developed a dynamic MERN stack blog platform empowering administrators to effortlessly publish content. Users can engage with posts through comments and likes, creating an interactive space. Implemented robust authentication ensures only admins have posting privileges, providing a secure and seamless experience for both content creators and readers😉.",
     image: blog,
@@ -283,11 +284,11 @@ export const projects = [
   },
   {
     id: 1,
-    title: "Podcast-Stream",
-    date: "Currently Working on this Project (In Progress)",
+    title: "Gen-AI",
+    date: "Feb-2024",
     description:
-      " 🔯 Strengthened security with JWT auth implementation; cutting unauthorized access by 30% 🔯Streamlined admin panel; reducing workload by 20 %.",
-    image: podstream,
+      " 🔯 Image Generation: Generate images using OpenAI API. Search: Search for specific images based on keywords or tags. Download: Download generated images to your device. Customization: Easily customizable and expandable to suit your needs.",
+    image: genai ,
     tags: [
       "React Js",
       "MongoDb",
@@ -299,8 +300,8 @@ export const projects = [
       "Google Auth",
     ],
     category: "web app",
-    // github: "https://github.com/laxmikant007/Ecomm2023",
-    // webapp: "https://mahaver-medicos.vercel.app",
+    github: "https://github.com/Khushisrivastava202/AI-Image-Generator",
+    webapp: "https://genai-image.netlify.app/",
     // member: [
     //   // {
     //   //   name: "Laxmiaknt Saraswat",
