@@ -2,7 +2,7 @@
 import weather from "./images/weather.png";
 import simon from "./images/simon.png";
 
-import blog from "./images/blog.png"
+import blog from "./images/techtraverse.png"
 import calculator from "./images/calculator.png"
 import movie from "./images/movie.png"
 import newshub from "./images/newsuhb.png"
@@ -11,7 +11,7 @@ import familytravel from "./images/family-travel.png"
 import capitalQuiz from "./images/capital-quiz.png"
 import drumKit from "./images/drum-kit.png"
 import bookNotes from "./images/bookNotes.png"
-import genai from "./images/genai.png"
+import genai from "./images/gen-ai1.png"
 
 
 
@@ -24,7 +24,7 @@ export const Bio = {
     "A passionate Software developer currently persuing Bachelor's degree in Computer Science, I am driven by a curiosity to explore and master the world of technology. My focus lies in becoming a proficient MERN stack developer, with a solid foundation in both front-end and back-end developmen",
   github: "https://github.com/Khushisrivastava202",
   resume:
-    "https://drive.google.com/file/d/1cUjyTRG7AWL5Up-A20R5z-BMwT-z6c9T/view?usp=sharing",
+    "https://drive.google.com/file/d/1VHLnSObmpuSi3VABG8C2HR-GoXCT0n6O/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/-khushi-srivastava-",
   twitter: "https://github.com/Khushisrivastava202",
   insta: "https://www.instagram.com/_khushi_srivastava_",
@@ -182,6 +182,40 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
+    img: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Odoo_logo_rgb.svg/2560px-Odoo_logo_rgb.svg.png",
+    role: "Software Developer Intern",
+    company: "Odoo Pvt. Ltd.",
+    companyLink: "https://www.odoo.com/",
+    date: "Current",
+    desc: " 🔯I contribute to the development of open-source solutions globally, using Python, JavaScript, and PostgreSQL.I collaborate with a diverse team of over 150 developers across various domains, from apps to infrastructure.Constantly learning, I adapt to new challenges, delivering impactful solutions for Odoo's success.",
+    skills: [
+      "Python",
+      "Javascript",
+      "PostgreSQL",
+      // "CSS",
+      // "JavaScript",
+    ]
+  },
+  {
+    id: 1,
+    img: "https://bharatintern.live/b/icons/logoNoBg.png",
+    role: "Web Developer ",
+    company: "Bharat Intern | Online Internship",
+    companyLink: "https://bharatintern.live/b/i/index.html",
+    date: "Jan 2024 - Feb 2024",
+    desc:
+      "I learnt HTML, CSS, and JavaScript, utilizing Node.js for server-side functionality. My project demonstrates expertise in crafting responsive interfaces, interactive elements, and clean layouts. This hands-on experience solidified my skills in these technologies, paving the way for dynamic and efficient web solutions.",
+    skills: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Node Js",
+      "Express Js",
+      "Netlify",
+    ],
+  },
+  {
+    id: 2,
     img: "https://ugc.production.linktr.ee/a99849c1-13bf-452e-ad85-ee4514c3e26d_logos.jpeg?io=true&size=avatar-v3_0",
     role: "Web Design & development",
     company: "Code Casa Pvt. Ltd. | Online Internship",
@@ -196,36 +230,8 @@ export const experiences = [
       "MongoDB",
     ],
   },
-  {
-    id: 1,
-    img: "https://bharatintern.live/b/icons/logoNoBg.png",
-    role: "Web Developer ",
-    company: "Bharat Intern | Online Internship",
-    companyLink: "https://bharatintern.live/b/i/index.html",
-    date: "Oct 2023 - Nov 2023",
-    desc:
-      "I learnt HTML, CSS, and JavaScript, utilizing Node.js for server-side functionality. My project demonstrates expertise in crafting responsive interfaces, interactive elements, and clean layouts. This hands-on experience solidified my skills in these technologies, paving the way for dynamic and efficient web solutions.",
-    skills: [
-      "JavaScript",
-      "Node Js",
-    ],
-  },
-  {
-    id: 2,
-    img: "https://octanet.in/storage/2023/10/cropped-cropped-site-139x46.png",
-    role: "Web Development | Online Internship ",
-    company: "Octanet Pvt. Ltd.",
-    companyLink: " https://octanet.in/",
-    date: "August 2023 - September 2023",
-    desc: " 🔯 Skilled in crafting dynamic and responsive user interfaces using HTML, CSS, and JavaScript and in server-side development using technologies such as Node.js and Express.",
-    skills: [
-      "ExpressJs",
-      "NodeJs",
-      "HTML",
-      "CSS",
-      "JavaScript",
-    ]
-  },
+  
+
 
 ];
 
@@ -287,21 +293,22 @@ export const projects = [
     title: "Gen-AI",
     date: "Feb-2024",
     description:
-      " 🔯 Image Generation: Generate images using OpenAI API. Search: Search for specific images based on keywords or tags. Download: Download generated images to your device. Customization: Easily customizable and expandable to suit your needs.",
+      "🔯 GENAI: AI-driven innovation featuring with multifaceted capabilities in image generation and content summarization via OpenAI API, With an intuitive UI/UX design. Image Generator: Generate realistic images based on textual prompts, Search existing images by other users, and download generated images.Link Summarizer: Auto-summarize articles into digestible snippets by giving URL input ; integrate local storage for browsing history, dynamically update clipboard with summarized text on copy button click.",
     image: genai ,
     tags: [
+      "OpenAI API",
       "React Js",
       "MongoDb",
       "Node Js",
       "Express Js",
       "Redux-toolkit", 
       "Firebase",
-      "JWT Token",
-      "Google Auth",
+      "Axios",
+      "Tailwind"
     ],
     category: "web app",
-    github: "https://github.com/Khushisrivastava202/AI-Image-Generator",
-    webapp: "https://genai-image.netlify.app/",
+    github: "https://github.com/Khushisrivastava202/GEN-AI",
+    webapp: "https://gen-ai-tools.netlify.app/",
     // member: [
     //   // {
     //   //   name: "Laxmiaknt Saraswat",
